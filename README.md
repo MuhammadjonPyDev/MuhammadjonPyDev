@@ -1,3 +1,2 @@
 ### Hi, I'm Mukhammadjon Abdunazarov
-<iframe src="https://giphy.com/embed/LMt9638dO8dftAjtco" width="480" height="476" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/devrock-python-django-edr-LMt9638dO8dftAjtco">via GIPHY</a></p>
-
+<img src="https://media0.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47537kww9cnkmqt5f8mwq6q21kknevxs3qjm7ied7m&rid=giphy.gif&ct=s" width="40px">
