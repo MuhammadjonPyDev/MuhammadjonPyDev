@@ -4,7 +4,7 @@
 
 ### For websites - Django framework,
 ### For telegram bots - Aiogram framework,
-### For desktop projects (GUI) - I use the tkinter framework.
+### For desktop projects (GUI) - I use the Tkinter framework.
 
 
 
