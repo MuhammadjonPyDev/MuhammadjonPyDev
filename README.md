@@ -2,5 +2,7 @@
 
 <p>I can create web sites, bots for Telegram, and small programs for computers using the Python programming language.</p>
 
+###For websites - <img src="https://juststickers.in/wp-content/uploads/2019/07/django-shapecut.png" width="40px">
+
 
 
