@@ -3,8 +3,8 @@
 <p>I can create web sites, bots for Telegram, and small programs for computers using the Python programming language.</p>
 
 ### For websites - Django framework,
-### For telegram bot - Aiogram framework,
-### For desktop projects - I use the tkinter framework.
+### For telegram bots - Aiogram framework,
+### For desktop projects (GUI) - I use the tkinter framework.
 
 
 
